@@ -1,5 +1,5 @@
-# Hey, I am Ananthu.
-I'm currently pursuing my Computer Science Eng. Degree.<br>I'm currently learning Full Stack Web Development, ML and Data Science.<br>I'm looking to collaborate on Web Development.<br>I'm looking for help with UI/UX Design.
+# 👋 Hey, I am Ananthu.
+I'm currently pursuing my Computer Science Eng. Degree.<br>I'm currently learning Full Stack Web Development, ML and Data Science and I'm looking forward to collaborate on Web Development & other Projects.
 
 
 ## 🌐 Socials:
