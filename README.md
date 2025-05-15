@@ -1,6 +1,4 @@
 # 👋 Hey, I am Ananthu.
-I'm currently pursuing my Computer Science Eng. Degree and learning Full Stack Web Development, ML & Data Science. <br>I'm looking forward to collaborate on Web Development & other Projects.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/spotananthu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anantha-krishnan-g-b55792200) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/spotananthu) 
