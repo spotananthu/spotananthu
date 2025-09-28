@@ -1,4 +1,4 @@
-# 👋 Hey, I am Ananthu.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey, I am Ananthu.)](https://git.io/typing-svg)
 
 <div align="center">
 
