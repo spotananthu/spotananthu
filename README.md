@@ -1,7 +1,7 @@
 # 👋 Hey, I am Ananthu.
-![](https://github-readme-stats.vercel.app/api?username=spotananthu&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=spotananthu&theme=holi&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=spotananthu&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=spotananthu&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spotananthu&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=spotananthu&limit=5&theme=holi&combine_all_yearly_contributions=true)
