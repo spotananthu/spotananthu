@@ -42,5 +42,19 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/spotananthu/spotananthu/output/pacman-contribution-graph.svg">
 </picture>
 
+</div>
 
+<div align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/anantha-krishnan-g-b55792200/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+
+  <!-- Twitter (commented out) -->
+  <!--
+  <a href="https://twitter.com/your_handle" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  </a>
+  -->
+  
 </div>
