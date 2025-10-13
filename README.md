@@ -17,6 +17,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spotananthu&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=spotananthu&theme=holi&hide_border=false" /> -->
 
+</div>
+
 <!-- 
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=spotananthu&limit=5&theme=holi&combine_all_yearly_contributions=true" /> 
@@ -30,6 +32,7 @@
     alt="github-trophy" />
   -->
 
+  <div align="center">
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
   <img width="12" />
@@ -57,8 +60,11 @@
   <!-- EJS (no official devicon — using Node.js icon as it’s part of Node templating) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="ejs logo" />
 
+ </div>
 
   <!-- Activity Graph -->
+  <div align="center">
+    
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=spotananthu&radius=16&theme=react&area=true&order=5"
     height="300"
