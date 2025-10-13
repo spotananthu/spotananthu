@@ -4,7 +4,7 @@
 
 </div> -->
 
-<h1 align="center">Hi 👋, I'm Ananthu</h1>
+<h1 align="center">Hi, I'm Ananthu</h1>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=spotananthu.spotananthu&left_text=Profile%20Views" />
