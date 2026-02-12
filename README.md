@@ -12,13 +12,11 @@
 <br>
 
 <!-- GitHub Stats -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=spotananthu&theme=holi&hide_border=false&include_all_commits=true&count_private=true" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spotananthu&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
   <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=spotananthu&theme=holi&hide_border=false" /> -->
-</div>
-
-<br>
+  <!--</div> -->
 
 <!-- Top Contributed Repo (commented) -->
 <!--
