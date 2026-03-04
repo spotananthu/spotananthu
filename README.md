@@ -2,6 +2,7 @@
 <!-- <div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I+am+Ananthu.)](https://git.io/typing-svg)
 </div> -->
+
 <h1 align="center">Hi, I'm Ananthu!</h1>
 
 <div align="left">
