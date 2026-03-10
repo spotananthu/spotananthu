@@ -1,4 +1,3 @@
-<!-- Typing intro (commented) -->
 <!-- <div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I+am+Ananthu.)](https://git.io/typing-svg)
 </div> -->
