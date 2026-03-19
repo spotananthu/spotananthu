@@ -80,7 +80,6 @@
 </div>
 </div>
 
-
 <br>
 
 <!-- Activity Graph & Pacman -->
